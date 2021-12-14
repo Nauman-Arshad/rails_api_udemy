@@ -42,3 +42,4 @@ gem 'devise'
 gem 'simple_token_authentication', '~> 1.17'
 #facebook User information
 gem 'koala', '~> 2.4'
+# gem 'faker', '~> 1.6', '>= 1.6.6'
